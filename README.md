@@ -1,5 +1,5 @@
 # Cryptology" TP 11 mai 2021
-This a TP for a "Cryptologie" module done by following ENSEIRB-MATMECA students:
+This a TP for a cryptology course done by following ENSEIRB-MATMECA students:
 
     - Ismail Elomari Alaoui
     
